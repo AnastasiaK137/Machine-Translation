@@ -1,0 +1,101 @@
+﻿Source (en),Target (ru),Comment
+nuclear,ядерный,Relating to a nucleus; relating to or using energy released in nuclear fission or fusion.
+spent fuel,отработавшее топливо,Nuclear fuel that has been irradiated in a reactor and removed after use.
+nuclear material,ядерный материал,Plutonium except that with isotopic concentration exceeding 80% in 238Pu; 233U; uranium enriched in the isotope 235 or 233; uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore residue; any material containing one or more of the foregoing.
+high enriched uranium,высокообогащенный уран,Uranium containing 20% or more of the isotope 235U. HEU is considered a special fissionable material and a direct use material.
+nuclear fuel,ядерное топливо,Fissionable nuclear material in the form of fabricated elements for loading into the reactor core of a civil nuclear power plant or research reactor.
+low enriched uranium,низкообогащенный уран,Enriched uranium containing less than 20% of the isotope 235U. LEU is considered a special fissionable material and an indirect use material.
+dry storage,сухое хранение,"Storage in a gaseous medium, such as air or an inert gas."
+disposal facility,пункт захоронения,An engineered facility where waste is emplaced for disposal
+storage,хранение,"The holding of radioactive sources, radioactive material, spent fuel or radioactive waste in a facility that provides for their/its containment, with the intention of retrieval."
+reprocess,перерабатывать,"A process or operation, the purpose of which is to extract radioactive isotopes from spent fuel for further use."
+exempt waste,изъятые отходы,Waste from which regulatory control is removed in accordance with exemption principles.
+advection,адвекция,The movement of a substance or the transfer of heat by the motion of the gas (usually air) or liquid (usually water) in which it is present.
+activation,активация,The process of inducing radioactivity in matter by irradiation of that matter.
+active component,активный элемент,"A component whose functioning depends on an external input such as actuation, mechanical movement or supply of power."
+bioassay,анализ биопроб,"Any procedure used to determine the nature, activity, location or retention of radionuclides in the body by direct (in vivo) measurement or by in vitro analysis of material excreted or otherwise removed from the body."
+becquerel,беккерель,"The SI unit of activity, equal to one (transformation) per second."
+near field,ближняя зона,"The excavated area of a disposal facility near or in contact with the waste packages, including filling or sealing materials, and those parts of the host medium/rock whose characteristics have been or could be altered by the disposal facility or its contents."
+failure mode,вид отказа,"The manner or state in which a structure, system or component fails."
+far field,дальняя зона,"The geosphere outside a disposal facility, comprisin g the surrounding geological strata, at a distance from the disposal facility such that, for modelling purposes, the disposal facility may be considered a single entity and the effects of individual waste packages are not distinguished."
+radiopharmacist,радиофармацевт,"A health professional, with specialist education and training in radiopharmacy, who is competent to prepare and dispense radiopharmaceuticals used for the purposes of medical diagnosis and radionuclide therapy."
+fission product,продукт деления,A radionuclide produced by nuclear fission.
+neutron scattering,нейтронное рассеяние,An analysis technique for understanding the structure and behaviour of solids and condensed matter.
+frequency of exceedance,частота превышения,The frequency at which a specified level of seismic hazard will be exceeded at a site or in a region within a specified time interval.
+geological fault,геологический разлом,A planar or gently curved fracture surface or zone of the Earth across which there has been relative displacement.
+helper in an emergency,"лицо, оказывающее помощь в аварийной ситуации",Member of the public who willingly and voluntarily helps in the response to a nuclear or radiological emergency.
+igneous rock,магматическая горная порода,Rock that has formed from magma.
+initiating event,исходное событие,An identified event that leads to anticipated operational occurrences or accident conditions.
+intake,поступление,The act or process of taking radionuclides into the body by inhalation or ingestion or through the skin.
+acute intake,острое поступление,An intake occurring within a time period short enough that it can be treated as instantaneous for the purposes of assessing the resulting committed dose.
+potential exposure,потенциальное облучение,"Prospectively considered exposure that is not expected to be delivered with certainty but that may result from an anticipated operational occurrence or accident at a source or owing to an event or sequence of events of a probabilistic nature, including equipment failures and operating errors."
+low specific activity material,материал с низкой удельной активностью,"Radioactive material that by its nature has a limited specific activity, or radioactive material for which limits of estimated average specific activity apply."
+medical physicist,медицинский физик,A health professional with specialist education and training in the concepts and techniques of applying physics in medicine and competent to practise independently in one or more of the subfields (specialties) of medical physics.
+minimum significant activity,минимальная значимая активность,"The radioactivity which, if present in a sample, produces a counting rate that can be reliably distinguished from background with a certain level of confidence."
+minimum detectable activity,минимальная обнаруживаемая активность,"The radioactivity which, if present in a sample, produces a counting rate that will be detected (i.e. considered to be above background) with a certain level of confidence."
+recycling,рециклирование,The process of converting waste materials into new products.
+risk monitor,монитор риска,A plant specific real time analysis tool used to determine the instantaneous risk based on the actual status of the systems and components.
+monitoring,мониторинг,"The measurement of dose, dose rate or activity for reasons relating to the assessment or control of exposure to radiation or exposure due to radioactive substances, and the interpretation of the results."
+unirradiated thorium,необлученный торий,Thorium containing not more than 10–7 g of 233U per gram of 232Th.
+safety case,обоснование безопасности,A collection of arguments and evidence in support of the safety of a facility or activity.
+volcano generated missile,образуемые вулканом обломки,"A pyroclastic particle, often of large size, that is forcefully ejected, follows a high angle trajectory from the volcanic vent to the surface as a result of explosive activity at the vent and falls under gravity."
+immobilization,иммобилизация,"Conversion of waste into a waste form by solidification, embedding or encapsulation."
+conditioning,кондиционирование,"Those operations that produce a waste package suitable for handling, transport, storage and/or disposal."
+treatment,обработка,Operations intended to benefit safety and/or economy by changing the characteristics of the waste.
+volume reduction,сокращение объема,A treatment method that decreases the physical volume of a waste.
+area survey,обследование территории,"An early stage of the siting process for a disposal facility, during which a broad region is examined to eliminate unsuitable areas and to identify other areas which may contain suitable sites."
+operator,оператор,Any person or organization applying for authorization or authorized and/or responsible for safety when undertaking activities or in relation to any nuclear facilities or sources of ionizing radiation.
+operational quantities,операционные величины,Quantities used in practical applications for monitoring and investigations that involve external exposure.
+clearance,освобождение от контроля,Removal of regulatory control by the regulatory body from radioactive material or radioactive objects within notified or authorized facilities and activities.
+licensing basis,основа лицензирования,A set of regulatory requirements applicable to a nuclear installation.
+shutdown,остановка,The cessation of operation of a facility.
+calibration,калибровка,"A measurement of, or adjustment to, an instrument, component or system to ensure that its accuracy or response is acceptable."
+channel,канал,An arrangement of interconnected components within a system that initiates a single output.
+qualification,квалификация,Process of determining whether a system or component is suitable for operational use.
+safety class,класс безопасности,"For nuclear power plants, the classes into which systems and components and other items of equipment are assigned on the basis of their functions and their safety significance."
+emergency class,класс аварийной ситуации,A set of conditions that warrant a similar immediate emergency response.
+short lived waste,короткоживущие отходы,Radioactive waste that does not contain significant levels of radionuclides with a half-life greater than 30 years.
+low level waste,низкоактивные отходы,"Radioactive waste that is above clearance levels, but with limited amounts of long lived radionuclides."
+end point,конечная точка,"The final stage of a process, especially the point at which an effect is observed."
+eruption cloud,облако извержения,A cloud of tephra and gases that forms above a volcanic vent during explosive volcanic eruptions.
+end state,конечное состояние,"The state of radioactive waste in the final stage of radioactive waste management, in which the waste is passively safe and does not depend on institutional control."
+irradiation installation,облучательная установка,"A structure or an installation that houses a particle accelerator, X ray apparatus or large radioactive source and that can produce high radiation fields."
+exposure,облучение,The state or condition of being subject to irradiation.
+cladding,оболочка,An external layer of material applied directly to another material to provide protection in chemically reactive conditions.
+nuclear installation,ядерная установка,"Any nuclear facility subject to authorization that is part of the nuclear fuel cycle, except facilities for the mining or processing of uranium ores or thorium ores and disposal facilities for radioactive waste."
+dose equivalent,эквивалент дозы,The product of the absorbed dose at a point in the tissue or organ and the appropriate quality factor for the type of radiation giving rise to the dose.
+evacuation,эвакуация,"The rapid, temporary removal of people from an area to avoid or reduce short term radiation exposure in a nuclear or radiological emergency."
+waste form,форма отходов,Waste in its physical and chemical form after treatment and/or conditioning (resulting in a solid product) prior to packaging.
+nuclear security,физическая ядерная безопасность,"The prevention and detection of, and response to, criminal or intentional unauthorized acts involving nuclear material, other radioactive material, associated facilities or associated activities."
+emergency response phase,фаза аварийного реагирования,The period of time from the detection of conditions warranting an emergency response until the completion of all the emergency response actions taken in anticipation of or in response to the radiological conditions expected in the first few months of the emergency.
+facilities and activities,установки и деятельность,"A general term encompassing nuclear facilities, uses of all sources of ionizing radiation, all radioactive waste management activities, transport of radioactive material and any other practice or circumstances in which people may be subject to exposure to radiation from naturally occurring or artificial sources."
+passive safety,пассивная безопасность,"The achievement of safety through the use of components and systems that do not require external input such as actuation, mechanical movement, or supply of power to operate."
+core melt,расплавление активной зоны,An event or sequence of events that result in the melting of part of the fuel in the reactor core.
+critical mass,критическая масса,"The minimum amount of fissile material needed to sustain a nuclear chain reaction, depending on geometry, enrichment, and the presence of moderator and reflector."
+decay heat,остаточное тепловыделение,The heat generated by the radioactive decay of fission products after a reactor has been shut down.
+decommissioning,вывод из эксплуатации,Taking a facility permanently out of service and placing and maintaining it in a safe state.
+depleted uranium,обедненный уран,"Uranium having a percentage of uranium-235 smaller than the 0.7% found in natural uranium, typically obtained from spent fuel or enrichment tails."
+design basis accident,проектная авария,"Accident conditions against which a nuclear facility is designed according to established design criteria, and for which the damage to the fuel and the release of radioactive material are kept within authorized limits."
+fuel assembly,тепловыделяющая сборка,"A form of nuclear fuel consisting of bundles of fuel elements, fuel channels, distancing grids, and end fittings."
+half-life,период полураспада,The time taken for one half the atoms of a radioactive substance to disintegrate.
+mixed oxide fuel,смешанное оксидное топливо,"Nuclear fuel that contains a mixture of plutonium and uranium oxides, typically used to recycle plutonium from spent fuel."
+moderator,замедлитель,"A material used in a thermal reactor to slow down fast neutrons, increasing the probability of fission in uranium-235."
+reactivity,реактивность,"A measure of the departure of a reactor from criticality, expressed as the fractional change in neutron population per generation."
+small modular reactor,малый модульный реактор,"A nuclear reactor designed to generate electric power typically up to 300 MW, with components and systems that can be factory-fabricated and transported as modules for installation on site."
+transuranic elements,трансурановые элементы,"Artificial elements with atomic numbers higher than uranium (92), typically produced by neutron bombardment of uranium in a reactor."
+zero-power reactor,реактор нулевой мощности,An experimental reactor operated at such low power levels that a coolant is not needed and little radioactivity is produced.
+sheltering,укрытие,The short term use of a structure for protection from an airborne plume and/or deposited radioactive material.
+tissue equivalent material,тканеэквивалентный материал,"Material designed to have, when irradiated, interaction properties similar to those of soft tissue."
+radiological assessor,специалист по оценке радиологической обстановки,"A person or team who in the event of a nuclear or radiological emergency assists the operator or off-site response organizations by performing radiological surveys, performing dose assessments, controlling contamination, ensuring the radiation protection of emergency workers and formulating recommendations on protective actions and other response actions."
+sorption,сорбция,"The interaction of an atom, molecule or particle with the solid surface at a solid–solution or a solid–gas interface."
+system code,системный код,A computational model that is capable of simulating the transient performance of a complex system such as a nuclear power plant.
+discharge,сброс,Planned and controlled release of (usually gaseous or liquid) radioactive substances to the environment.
+representative person,репрезентативное лицо,An individual receiving a dose that is representative of the doses to the more highly exposed individuals in the population.
+dispersal,рассеяние,The spreading of radioactive material in the environment.
+radioactive material,радиоактивный материал,Material designated in national law or by a regulatory body as being subject to regulatory control because of its radioactivity.
+radiation,радиация,The emission and propagation of energy in the form of waves or particles.
+exposure pathway,путь облучения,A route by which radiation or radionuclides can reach humans and cause exposure.
+natural uranium,природный уран,"Uranium as found in nature, containing approximately 0.7% uranium-235, 99.3% uranium-238 and a trace amount of uranium-234."
+absorbed fraction,поглощенная фракция,The fraction of energy emitted as a specified radiation type in a specified source region that is absorbed in a specified target tissue.
+uptake,поглощение,A general term for the processes by which radionuclides enter one part of a biological system from another.
+prime mover,первичный двигатель,A component that converts energy into action when commanded by an actuation device.

@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01-generator" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20260922T103810Z"/>
+  <body>
+    <tu tuid="1" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The integrated complex will improve the efficiency and competitiveness of the Russian nuclear industry and make nuclear energy even safer and more environmentally friendly.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Интегрированный комбинат позволит повысить эффективность и конкурентоспособность российской атомной отрасли и сделать атомную энергетику еще более безопасной и экологичной.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Previously, Russia had primarily stored its spent fuel and partly processed this fuel at the RT-1 plant at the Mayak Production Association near Ekaterinburg, about 1600 kilometers east of Moscow, in western Siberia.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Раньше в России отработавшее топливо в основном хранилось и частично перерабатывалось на заводе РТ-1 Производственного объединения «Маяк» близ Екатеринбурга, примерно в 1600 км к востоку от Москвы, в западной части Сибири.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The movement of nuclear material requires additional safety and security measures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При перемещении ядерного материала требуется принимать дополнительные меры по обеспечению физической и ядерной безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>For instance, the MCC will handle the reprocessing of a new type of high enriched uranium called REMIX.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Например, ГХК будет заниматься переработкой нового вида высокообогащенного урана под названием РЕМИКС.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Connected to the grid in December 2015, it runs on nuclear fuel and has advanced safety characteristics.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Подключенный к энергосети в декабре 2015 года, он работает на ядерном топливе и имеет повышенные характеристики безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Ghana has successfully completed the conversion of its only research reactor from the use of high enriched uranium (HEU) fuel to low enriched uranium (LEU) fuel, in an international project supported by the IAEA to help decrease the proliferation risks associated with HEU fuel.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гана успешно завершила конверсию своего единственного исследовательского реактора, переведя его с топлива из высокообогащенного урана (ВОУ) на топливо из низкообогащенного урана (НОУ), в рамках реализуемого при поддержке МАГАТЭ международного проекта, который способствует снижению рисков распространения, связанных с ВОУ топливом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>It is therefore placed in water pools or in dry storage facilities to cool down.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Поэтому для охлаждения его помещают в бассейны с водой или в сухие хранилища.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Before construction of a disposal facility can begin, the company in charge of implementing the concept needs to obtain a construction licence.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Перед тем как начать строительство пункта захоронения, компания, отвечающая за реализацию концепции, должна получить лицензию на строительство.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>A study was prepared on the basis of the CRP conclusions, which was then submitted to the regulator, who accepted the reasoning and increased the storage temperature limit.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На основе выводов ПКИ было подготовлено и направлено в регулирующий орган исследование; регулятор согласился с его доводами и повысил температурный предел для хранения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Initially, all countries had planned to reprocess their spent fuel, either in their own facilities or abroad.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Изначально все страны планировали перерабатывать свое отработавшее топливо, либо на собственных установках, либо в других странах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Following the 2018 revision of the national clearance criteria, a portion of the decommissioning debris was classified as exempt waste and released from regulatory control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>После пересмотра национальных критериев освобождения в 2018 году часть образовавшихся при выводе из эксплуатации отходов была отнесена к изъятым отходам и выведена из-под регулирующего контроля.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>In the safety case for the repository, advection was found to dominate radionuclide migration in the fracture network, while diffusion prevailed in the intact rock matrix.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В обосновании безопасности хранилища было установлено, что адвекция преобладает при миграции радионуклидов в системе трещин, тогда как в ненарушенной матрице породы преобладает диффузия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>During decommissioning planning, the operator assessed activation levels in the reactor pressure vessel to determine the radioactive inventory and the appropriate dismantling strategy.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При планировании вывода из эксплуатации оператор оценил уровни активации в корпусе реактора для определения радиоактивного инвентаря и выбора соответствующей стратегии демонтажа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The probabilistic safety assessment identified a single active component whose failure could lead to a loss of residual heat removal, prompting a design modification.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вероятностный анализ безопасности выявил единственный активный элемент, отказ которого мог привести к потере отвода остаточного тепла, что потребовало изменения проекта.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Workers handling unsealed sources are subject to periodic bioassay in accordance with the facility's radiation protection programme.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Работники, обращающиеся с открытыми источниками, подлежат периодическому анализу биопроб в соответствии с программой радиационной защиты объекта.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The measured activity concentration in the groundwater sample was reported as 12 becquerels per litre, well below the derived release limit.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Измеренная концентрация активности в пробе подземных вод составила 12 беккерелей на литр, что значительно ниже производного предела сброса.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The safety assessment demonstrated that the near field would remain chemically reducing for at least the first ten thousand years after closure.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оценка безопасности показала, что ближняя зона будет оставаться химически восстановительной по крайней мере в течение первых десяти тысяч лет после закрытия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The most credible failure mode identified for the canister was stress corrosion cracking, which was subsequently addressed through an enhanced manufacturing specification.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Наиболее вероятным видом отказа контейнера было признано коррозионное растрескивание под напряжением, что впоследствии было учтено в ужесточённых требованиях к изготовлению.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Radionuclide transport in the far field was simulated over a one-million-year period using a coupled groundwater flow and geochemical model.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Перенос радионуклидов в дальней зоне моделировался на период в один миллион лет с использованием сопряжённой модели фильтрации подземных вод и геохимических процессов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Their numerous applications include producing radiopharmaceuticals for cancer care and nuclear medicine, helping to create new materials for research and industry and training radiopharmacists.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Их многочисленные применения включают производство радиофармпрепаратов для лечения рака и ядерной медицины, помощь в создании новых материалов для исследований </seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>They are used to produce radioisotopes for medicine and irradiate materials for the development of fission and fusion reactors, among other applications.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Они используются для производства радиоизотопов для медицины и облучения материалов для разработки реакторов деления и синтеза, среди прочих применений.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The IAEA supports Member States in developing neutron scattering capabilities at their research reactors, including through coordinated research projects and technical cooperation programmes.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>МАГАТЭ оказывает поддержку государствам-членам в развитии возможностей нейтронного рассеяния на их исследовательских реакторах, в том числе через проекты координированных исследований и программы технического сотрудничества.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>When the frequency of exceedance is very small and it cannot exceed unity (in the prescribed interval), this number approaches the probability of the same event if the random process is assumed to be Poissonian.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Когда частота превышения очень мала и не может превысить единицу (в заданном интервале), это число приближается к вероятности того же события, если предположить, что случайный процесс является пуассоновским.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The geological fault shows evidence of past movement or movements (significant deformations and/or dislocations) of a recurring nature within such a period that it is reasonable to infer that further movements at or near the surface could occur.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Геологический разлом содержит свидетельства прошлого движения или движений (значительных деформаций и/или смещений), носящих повторяющийся характер в течение такого периода, что разумно предположить возможность дальнейших движений на поверхности или вблизи неё.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Helpers in an emergency are protected and are aware that they could be exposed to radiation while helping in response to a nuclear or radiological emergency.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Помощники в чрезвычайной ситуации защищены и осведомлены о том, что они могут подвергнуться облучению, оказывая помощь при реагировании на ядерную или радиологическую аварийную ситуацию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Extruded igneous rocks (volcanic rocks) are typically divided into four basic types according to their SiO2 content: basalt, andesite, dacite and rhyolite.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Экструзивные магматические породы (вулканические породы) обычно подразделяются на четыре основных типа в зависимости от содержания SiO2: базальт, андезит, дацит и риолит.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>For the consideration of hypothetical events at the design stage, the term postulated initiating event is used.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При рассмотрении гипотетических событий на стадии проектирования применяется термин постулируемое исходное событие.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Other exposure pathways by intake are injection (e.g. in nuclear medicine) and intake via a wound, as distinguished from intake through (intact) skin.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Другими путями облучения в результате поступления радионуклидов являются инъекции (например, в ядерной медицине) и поступление через рану, в отличие от поступления через (неповрежденную) кожу.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The exposure that results from an acute intake is not necessarily acute exposure.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Облучение, которое происходит в результате острого поступления, не обязательно является острым облучением.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>In the case of a geological disposal facility, assessment of the long term action of processes and events that are uncertain leads to projections of long term potential exposure.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В случае пункта геологического захоронения проведение оценки долгосрочного воздействия неопределенных процессов и событий позволяет получить прогнозы долгосрочного потенциального облучения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>External shielding materials surrounding the low specific activity material are required not to be considered in determining the estimated average specific activity. </seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Материалы внешней защиты, окружающей материал с низкой удельной активностью, при определении установленной средней удельной активности учитываться не должны.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Competence of persons is normally assessed by the State by having a formal mechanism for registration, accreditation or certification of medical physicists in the various specialties.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Компетентность, как правило, определяется государством посредством официального механизма регистрации, аккредитации или сертификации медицинских физиков в соответствующей области специализации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>A sample containing exactly the minimum significant activity will, as a result of random fluctuations, be taken to be free of radioactivity 50% of the time, whereas a true background sample will be taken to be free of radioactivity 95% of the time.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Образец, определенно обладающий минимальной значимой активностью, может рассматриваться, с учетом случайных колебаний, как не имеющий радиоактивности на протяжении 50% времени, в то время как истинно репрезентативный образец фона может рассматриваться как не имеющий радиоактивности на протяжении 95% времени.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The counting rate from a sample containing the minimum detectable activity is termed the determination level.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Скорость счета у образца, обладающего минимальной обнаруживаемой активностью, называется уровнем определения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Recycling reduces the wastage of useful materials, the use of raw materials and energy use.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Рециклирование позволяет снизить потери полезных материалов, сократить объемы использования сырья и энергопотребления.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The model used by the risk monitor is based on, and is consistent with, the ‘living’ probabilistic safety assessment for the facility.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Модель, используемая в мониторе риска, основана на текущем вероятностном анализе безопасности для установки и согласуется с этим анализом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Monitoring may be subdivided according to where the measurements are made, into individual monitoring and workplace monitoring.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Мониторинг можно классифицировать в зависимости от места проведения измерений — индивидуальный мониторинг, мониторинг рабочего места.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Although the term unirradiated thorium is used, the issue is not really whether the thorium has been irradiated, but rather whether the content of 233U (a fissile material) is significantly higher than the trace levels found in naturally occurring thorium.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Термин необлученный торий применяется несмотря на то, что при этом фактически смысл заключается не в том, был ли торий облучен или нет, а скорее в том, является ли содержание 233U (делящегося материала) значительно выше, чем следовые уровни в тории природного происхождения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>In such cases, the safety case should acknowledge the existence of any unresolved issues and should provide guidance for work to resolve these issues in future development stages.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В таких случаях в обосновании безопасности следует отмечать наличие любых нерешенных проблем и приводить рекомендации в отношении действий по решению этих проблем на будущих стадиях разработки проекта.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Volcano generated missiles can be of any material, such as rock fragments, trees and structural debris, that is rapidly transported by flow phenomena with significant momentum and that may impact structures, causing considerable damage, even beyond the extent of the main flow itself.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Образуемые вулканом обломки могут состоять из любых материалов, таких как фрагменты породы, деревья и обломки строений, которые быстро переносятся движущимися потоками со значительным моментом количества движения и которые могут ударять по конструкциям, причиняя им существенный ущерб, даже за пределами основного потока.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Immobilization reduces the potential for migration or dispersion of radionuclides during handling, transport, storage and/or disposal.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Иммобилизация снижает возможность миграции или рассеивания радионуклидов в процессе манипулирования, перевозки, хранения и/или захоронения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Conditioning may include the conversion of the waste to a solid waste form, enclosure of the waste in containers and, if necessary, provision of an overpack.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Кондиционирование может включать перевод отходов в твердую форму отходов, помещение отходов в контейнеры и при необходимости формирование транспортного пакета.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>If treatment does not result in an appropriate waste form, the waste may be immobilized.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если обработка не приводит к получению соответствующей формы отходов, отходы могут быть подвергнуты иммобилизации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Typical volume reduction methods are mechanical compaction, incineration and evaporation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Типичные методы сокращения объема — это механическое компактирование, сжигание и выпаривание.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Area survey is followed by site characterization.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>За обследованием территории следует стадия характеризации площадки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Operator includes, inter alia, private individuals, governmental bodies, consignors or carriers, licensees, hospitals, self-employed persons.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В число операторов входят, в частности, частные лица, государственные (правительственные) органы, грузоотправители или перевозчики, лицензиаты, лечебные учреждения и самозанятые лица (лица, работающее не по найму).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Operational quantities are defined for the purpose of measurement and assessment of doses in the human body.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Операционные величины установлены для проведения измерений и оценки доз излучения, воздействующих на организм человека.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Conceptually, clearance is closely linked to, but distinct from and not to be confused with, exemption — determining that controls do not need to be applied to certain sources and facilities and activities.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Концептуально освобождение от контроля имеет тесную связь с изъятием, т.е. решением, отменяющим необходимость применения мер контроля в отношении некоторых источников и установок и деятельности, однако в то же время оно имеет определенные отличия от него, и эти два понятия не следует путать.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The licensing basis, in addition to a set of regulatory requirements, may also include agreements and commitments made between the regulatory body and the licensee.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В основу лицензирования, помимо регулирующих требований, могут быть также включены соглашения и обязательства между регулирующим органом и лицензиатом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Between the permanent shutdown of the facility and approval of the decommissioning plan, there may be a period of transition.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возможен переходный период между моментом окончательного остановки установки и моментом утверждения плана вывода из эксплуатации. </seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>A calibration may be expressed by a statement, calibration function, calibration diagram, calibration curve or calibration table.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Результаты калибровки могут быть оформлены как акт, калибровочная функция, калибровочная диаграмма, калибровочная кривая или калибровочная таблица.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>A channel loses its identity where single output signals are combined with signals from other channels.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Канал теряет свою идентичность, когда сигналы одного выхода объединяются с сигналами, поступающими от других каналов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Qualification is generally performed in the context of a specific set of qualification requirements for the specific facility and class of system and for the specific application.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Квалификация обычно проводится с использованием конкретного набора квалификационных требований, действующих в отношении конкретной установки и конкретного класса системы, в также конкретного применения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The design is required to ensure in particular that any failure of items important to safety in a system in a lower safety class will not propagate to a system in a higher safety class.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При проектировании требуется обеспечивать, в частности, чтобы любой отказ узлов, важных для безопасности, в системе с более низким классом безопасности не распространялся на систему с более высоким классом безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>IAEA safety standards specify five emergency classes, namely general emergency, site area emergency, facility emergency, alert and other nuclear or radiological emergency.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В нормах безопасности МАГАТЭ определено пять классов аварийных ситуаций, а именно общая аварийная ситуация, аварийная ситуация на территории площадки, аварийная ситуация на установке, предупреждение об опасности, прочие ядерные или радиологические аварийные ситуации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Typical characteristics are long lived radionuclide concentrations exceeding the limitations for short lived waste.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Типичные характеристики — это концентрации долгоживущих радионуклидов, превышающие ограничения для короткоживущих отходов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Low level waste is typically disposed of in near-surface repositories. </seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Низкоактивные отходы, как правило, захораниваются в приповерхностных хранилищах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Common end points include estimates of dose or risk, estimated frequency or probability of an event or type of event, expected number of health effects in a population, predicted environmental concentrations of radionuclides, etc.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Расчет общих конечных точек включает оценки дозы или риска, частоты повторения или вероятности возникновения события или данного типа события, ожидаемых воздействий на здоровье населения, прогнозируемых концентраций радионуклидов в окружающей среде и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Large eruption clouds can encircle the Earth within days.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Крупные облака извержения могут обволакивать земной шар в течение нескольких дней.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>In the context of radioactive waste management, the end state refers to disposal.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В контексте обращения с радиоактивными отходами конечное состояние относится к захоронению.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Irradiation installations include installations for external beam radiation therapy, installations for sterilization or preservation of commercial products and some installations for industrial radiography.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>К числу облучательных установок относятся установки для внешней лучевой терапии, установки для стерилизации или сохранения коммерческой продукции и некоторые установки для промышленной радиографии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Exposure to ionizing radiation can be broadly divided into exposure categories according to the status of the individuals exposed.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Облучение в результате воздействия ионизирующего излучения может быть подразделено на категории облучения в зависимости от состояния облученного лица.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Cladding may also provide structural support.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оболочка может также служить конструкционной опорой.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Such a plant ceases to be a nuclear installation when all nuclear fuel elements have been removed permanently from the reactor core and have been stored safely in accordance with approved procedures, and a decommissioning programme has been agreed to by the regulatory body.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Такая станция перестает быть ядерной установкой, когда все ядерные тепловыделяющие элементы окончательно удаляются из активной зоны реактора и безопасно складируются в соответствии с утвержденными регламентами, а с регулирующим органом согласована программа вывода из эксплуатации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>For radiation protection purposes the quantity dose equivalent has been superseded by equivalent dose.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Величина эквивалент дозы для целей радиационной защиты была заменена величиной эквивалентная доза.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Evacuation may be taken as a precautionary urgent protective action based on observable conditions or plant conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эвакуация может проводиться в качестве предупредительной срочной защитной меры, исходя из создавшейся обстановки или фиксируемых условий на станции.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The waste form is a component of the waste package.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Форма отходов является элементом упаковки отходов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Often abbreviated to security in IAEA publications on nuclear security.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В публикациях МАГАТЭ по вопросам физической ядерной безопасности часто применяется сокращенная форма этого термина — физическая безопасность.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The emergency response phase typically ends when the situation is under control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Фаза аварийного реагирования обычно заканчивается, когда ситуация находится под контролем.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The term ‘facilities and activities’ is intended to provide an alternative to the terminology of sources and practices (or interventions) to refer to general categories of situations.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Термин установки и деятельность предназначен для применения в качестве альтернативы терминам источники и практическая деятельность (или вмешательство) в случае ситуаций, относящихся к общим категориям.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Passive safety systems rely on natural forces such as gravity and natural circulation, eliminating the need for operator action or external power during an accident.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Системы пассивной безопасности опираются на естественные силы, такие как гравитация и естественная циркуляция, что исключает необходимость вмешательства оператора или внешнего электропитания при аварии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>A core melt can occur if decay heat is not adequately removed after reactor shutdown, especially when the core remains uncovered for a prolonged period.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Расплавление активной зоны может произойти, если остаточное тепловыделение не отводится должным образом после остановки реактора, особенно когда активная зона остается оголенной в течение длительного времени.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The critical mass of a fissile material depends on its geometry, enrichment, and the presence of a moderator or reflector, all of which influence the neutron economy of the system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Критическая масса делящегося материала зависит от его геометрии, обогащения, а также наличия замедлителя или отражателя, которые определяют нейтронный баланс системы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Decay heat continues to be generated after reactor shutdown and must be reliably removed to prevent fuel damage and a potential core melt.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Остаточное тепловыделение продолжается и после остановки реактора, и его необходимо надежно отводить, чтобы предотвратить повреждение топлива и возможное расплавление активной зоны.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Decommissioning of a nuclear facility requires a detailed plan approved by the regulatory body, including provisions for the management of residual radioactive material.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вывод из эксплуатации ядерной установки требует подробного плана, утвержденного регулирующим органом, включая мероприятия по обращению с остаточными радиоактивными материалами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Depleted uranium, obtained as a by-product of enrichment, is used in radiation shielding and as a component of mixed oxide fuel.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обедненный уран, получаемый как побочный продукт обогащения, используется в радиационной защите и в качестве компонента смешанного оксидного топлива.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The design basis accident defines the boundary conditions for which the plant must remain safe and the release of radioactive material must stay within authorized limits.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Проектная авария определяет граничные условия, при которых станция должна оставаться безопасной, а выход радиоактивных материалов не должен превышать разрешенных пределов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Each fuel assembly contains a bundle of fuel elements held together by spacer grids and end fittings, forming a unit suitable for loading into the reactor core.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Каждая тепловыделяющая сборка содержит пучок тепловыделяющих элементов, скрепленных дистанционирующими решетками и концевыми деталями, образуя узел, пригодный для загрузки в активную зону реактора.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The half-life of a radionuclide determines the time required for its activity to decrease to one half of its initial value and is a key parameter in radioactive waste management.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Период полураспада радионуклида определяет время, за которое его активность уменьшается вдвое от первоначального значения, и является ключевым параметром при обращении с радиоактивными отходами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Mixed oxide fuel is used in light water reactors to recycle plutonium recovered from spent fuel, thereby reducing the inventory of separated plutonium.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Смешанное оксидное топливо используется в легководных реакторах для рециклирования плутония, извлеченного из отработавшего топлива, что позволяет сократить количество выделенного плутония.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>In a thermal reactor, the moderator slows down fast neutrons to thermal energies, significantly increasing the probability of fission in uranium-235.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В тепловом реакторе замедлитель замедляет быстрые нейтроны до тепловых энергий, значительно увеличивая вероятность деления урана-235.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Reactivity is controlled by means of control rods, soluble neutron absorbers, or changes in the moderator temperature and density.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Реактивность контролируется с помощью управляющих стержней, растворимых поглотителей нейтронов или изменений температуры и плотности замедлителя.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Small modular reactors offer the potential for factory fabrication, reduced site construction time, and deployment in locations unsuitable for large nuclear power plants.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Малые модульные реакторы открывают возможность заводского изготовления, сокращения сроков строительства на площадке и размещения в местах, непригодных для крупных атомных станций.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Transuranic elements, such as plutonium, americium, and curium, are produced by neutron capture in uranium fuel and dominate the long-term radiotoxicity of spent fuel.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Трансурановые элементы, такие как плутоний, америций и кюрий, образуются в результате захвата нейтронов в урановом топливе и определяют долговременную радиотоксичность отработавшего топлива.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>A zero-power reactor is used for experiments in reactor physics, where the neutron flux is too low to require forced cooling and the inventory of fission products remains negligible.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Реактор нулевой мощности используется для экспериментов по физике реакторов, где нейтронный поток слишком мал, чтобы требовать принудительного охлаждения, а количество продуктов деления остается незначительным.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Sheltering is an urgent protective action, used to provide shielding against external exposure and to reduce the intake of airborne radionuclides by inhalation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сооружение укрытия представляет собой срочную защитную меру, используемую для обеспечения защитного экранирования от внешнего облучения и для уменьшения ингаляционного поступления аэрозольных частиц радионуклидов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The tissue equivalent material used in the ICRU sphere has a density of 1 g/cm3 and an elemental composition, by mass, of 76.2% oxygen, 11.1% carbon, 10.1% hydrogen and 2.6% nitrogen.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Тканеэквивалентный материал, используемый в стандартном шаре МКРЕ, имеет плотность 1 г/см3 и элементарный состав по массе 76,2% кислорода, 11,1% углерода, 10,1% водорода и 2,6% азота.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The radiological assessor could be the radiation protection officer.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Функции специалиста по оценке радиологической обстановки может исполнять лицо, ответственное за радиационную защиту.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Sorption used in the context of radionuclide migration to describe the interaction of radionuclides in pore water or groundwater.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Термин «Sorption» применяется в связи с миграцией радионуклидов для обозначения взаимодействия радионуклидов в поровых или подземных водах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>A system code typically includes equations for thermohydraulics, neutronics and heat transfer, and must include special models for simulating the performance of components such as pumps and separators.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Как правило, в системный код включаются уравнения термогидравлики, нейтронной физики и теплопереноса, и в нем должны быть предусмотрены специальные модели для симуляции работы таких элементов, как насосы и сепараторы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The discharge of radioactive substances to the environment is subject to strict regulatory control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сброс радиоактивных веществ в окружающую среду подлежит строгому регулирующему контролю.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The representative person will generally be a hypothetical construct and not an actual member of the population.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Репрезентативное лицо, как правило, является гипотетической конструкцией, а не реальным лицом из населения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Dispersion models are used to predict the dispersal of radioactive material after a release.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Модели рассеяния используются для прогнозирования рассеяния радиоактивного материала после выброса.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Physical protection measures are applied to prevent unauthorized access to radioactive material.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Меры физической защиты применяются для предотвращения несанкционированного доступа к радиоактивному материалу.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Background radiation levels are continuously monitored at the facility boundary.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Уровни фонового излучения непрерывно контролируются на границе площадки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>An exposure pathway may be very simple, for example the external exposure pathway from airborne radionuclides, or a more complex chain, for example the internal exposure pathway from drinking milk from cows that ate grass contaminated with deposited radionuclides.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Путь облучения может быть очень простым, например, как в случае внешнего пути облучения от аэрозольных радионуклидов, или более сложной цепью, например, в случае внутреннего пути облучения при употреблении молока коров, которые питались травой, загрязненной радионуклидами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Natural uranium must be enriched to increase the concentration of uranium-235 for use in light water reactors.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Природный уран должен быть обогащен для повышения концентрации урана-235 для использования в легководных реакторах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>Monte Carlo methods are commonly used to calculate absorbed fractions for different source–target geometries.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Для расчета поглощенных фракций при различных геометриях источник–мишень обычно используются методы Монте-Карло.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>The uptake of radionuclides by crops is a key pathway for human exposure in the food chain.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Поступление радионуклидов в сельскохозяйственные культуры является ключевым путём облучения человека по пищевой цепочке.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100" creationdate="20260922T103810Z">
+      <prop type="domain">Nuclear Energy / Atomic Industry</prop>
+      <tuv xml:lang="en">
+        <seg>In a nuclear power plant, the prime mover of the turbine generator is the steam turbine driven by the reactor coolant system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На атомной электростанции первичным двигателем турбогенератора является паровая турбина, приводимая в действие системой теплоносителя реактора.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
