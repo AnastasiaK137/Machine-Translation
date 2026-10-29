@@ -6,6 +6,17 @@
 **«Атомная энергетика и реакторные технологии»**.
 Глоссарий и корпус параллельных текстов составлены самостоятельно на основе глоссариев МАГАТЭ (IAEA Safety Glossary).
 
+Источники:
+https://www.iaea.org/publications/15176/iaea-safeguards-glossary
+https://www.iaea.org/publications/11098/iaea-safety-glossary-2018-edition
+https://www.iaea.org/resources/databases/inis/thesaurus
+https://www.iaea.org/ru/bulletin/60-2
+https://www.iaea.org/ru/bulletin/64-3
+https://www.iaea.org/ru/bulletin/58-4
+https://www.iaea.org/ru/bulletin/46-1
+https://www.iaea.org/bulletin/60-4
+https://world-nuclear.org/information-library/nuclear-fuel-cycle/introduction/physics-of-nuclear-energy
+
 ---
 
 ## Лабораторная работа №2. Нейросетевой перевод на базе Hugging Face Transformers (MarianMT, NLLB)
